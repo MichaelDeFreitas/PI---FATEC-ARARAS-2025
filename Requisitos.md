@@ -66,7 +66,7 @@ O sistema será integrado ao site da LM Informática com os seguintes recursos:
 
 A nova identidade deve transmitir:
 
-- ⚡ Um visual **tecnológico**, com apelo ao público **gamer**  
+- ⚡ Um estilo **tecnológico**, voltado ao público **gamer**  
 - 🛡️ **Confiabilidade e profissionalismo**  
 - 📱 Um **design responsivo**, moderno e atrativo
 
