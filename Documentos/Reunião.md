@@ -5,9 +5,9 @@
 Marcamos uma reunião com o cliente no dia **14/05/2025 (quarta-feira)**, agendada para o dia **17/05/2025 (sábado)**, às **14h**, no estabelecimento **Celeiro Café**.
 
 <p align="center">
-  <img src="img/reuniao1.jpg" height="200" width="300" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
-  <img src="img/reuniao4.jpg" height="200" width="300" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
-  <img src="img/reuniao3.jpg" height="200" width="300" alt="Foto do estabelecimento"/>
+  <img src="./img/reuniao1.jpg" height="200" width="300" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
+  <img src="./img/reuniao4.jpg" height="200" width="300" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
+  <img src="./img/reuniao3.jpg" height="200" width="300" alt="Foto do estabelecimento"/>
 </p>
 
 ---
