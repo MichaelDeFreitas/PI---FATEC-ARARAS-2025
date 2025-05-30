@@ -6,10 +6,10 @@ Este repositório contém o Projeto Integrador desenvolvido durante o primeiro s
 ## 👥 Participantes do Grupo
 
 - Gleuvison Pereira dos Santos  
-- Rodolfo Mendes  
-- Marcos Firmino Rodrigues  
+- [Rodolfo Mendes](https://github.com/RodolfoMendes94)
+- [Marcos Firmino Rodrigues](https://github.com/marcos22-s)  
 - Everton Rodrigues da Silva  
-- Michael Pierre Nintz de Freitas
+- [Michael Pierre Nintz de Freitas](https://github.com/MichaelDeFreitas)
 
 ## 💡 Sobre o Projeto
 
