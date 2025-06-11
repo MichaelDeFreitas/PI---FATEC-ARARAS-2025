@@ -20,13 +20,14 @@ Nosso projeto é voltado ao desenvolvimento de uma solução digital para um peq
 - Suporte técnico presencial e remoto
 
 ### Objetivos
-#### Sistema
-Um sistema com foco em usabilidade, clareza e funcionalidades essenciais para o negócio. A plataforma contará com:
+#### WebSite
+Um WebSite com foco em usabilidade, clareza e funcionalidades essenciais para o negócio. A plataforma contará com:
 
 - Interface amigável
 - Sistema de cadastro e login de usuários
 - Formulário de contato
 - Consulta de histórico de atendimento (cliente, serviço prestado, datas, etc.)
+
 #### Design
 
   Uma página web com indentidade visual do proprietário e amigavel ao cliente. Contando com:
@@ -34,6 +35,11 @@ Um sistema com foco em usabilidade, clareza e funcionalidades essenciais para o 
   - Logo 
   - Paleta de cores
   - Fácil visualização dos produtos
+
+####Sistema
+O sistema tem como foco a agilidade para o usuário
+
+Acesso: [Abra aqui](https://www.figma.com/proto/YlNR82DQRsyjfpU4IzFCWx/SISTEMA_LM_INFORM%C3%81TICA?node-id=0-1&t=xu5bgcHd9IXNTx8I-1)
 
 ### Próximos Passos
 
