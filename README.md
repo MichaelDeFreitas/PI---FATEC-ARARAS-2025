@@ -41,6 +41,12 @@ O sistema tem como foco a agilidade para o usuário
 
 Acesso: [Abra aqui](https://www.figma.com/proto/YlNR82DQRsyjfpU4IzFCWx/SISTEMA_LM_INFORM%C3%81TICA?node-id=0-1&t=xu5bgcHd9IXNTx8I-1)
 
+### Tecnoologias usadas
+<p align="left">
+  <img src="/img/css-3.png" height="50" width="50" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
+  <img src="/img/html-5.png" height="50" width="50" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
+  <img src="/img/js.png" height="50" width="50" alt="Foto do estabelecimento"/>
+</p>
 ### Próximos Passos
 
 Neste primeiro momento, estamos desenvolvendo o **front-end completo** da aplicação, priorizando a experiência do usuário e a estrutura visual do sistema.
