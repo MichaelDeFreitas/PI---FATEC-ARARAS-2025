@@ -47,6 +47,7 @@ Acesso: [Abra aqui](https://www.figma.com/proto/YlNR82DQRsyjfpU4IzFCWx/SISTEMA_L
   <img src="/img/html-5.png" height="50" width="50" alt="Foto do estabelecimento" style="margin-right: 10px;"/>
   <img src="/img/js.png" height="50" width="50" alt="Foto do estabelecimento"/>
 </p>
+
 ### Próximos Passos
 
 Neste primeiro momento, estamos desenvolvendo o **front-end completo** da aplicação, priorizando a experiência do usuário e a estrutura visual do sistema.
